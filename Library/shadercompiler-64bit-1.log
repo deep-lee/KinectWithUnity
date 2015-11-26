@@ -1,0 +1,11 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-1-13872
+Cmd: getPlatforms
+Cmd: compileSnippet
+  api=4 type=0 insize=4732 outsize=4215 kw=POINT FOG_EXP ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4732 outsize=3086 kw=POINT FOG_EXP ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=4694 outsize=4215 kw=POINT FOG_EXP ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=4694 outsize=2907 kw=POINT FOG_EXP ok=1
